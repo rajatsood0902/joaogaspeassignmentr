@@ -1,0 +1,69 @@
+.footer{
+    position: absolute;
+    top: 5608px;
+    background-color: #333333;
+    width: 100%;
+    height: 400px;
+    color: #767676;
+}
+.section-rows{
+    width: fit-content;
+    position: absolute;
+    left: 15rem;
+    top: 3rem;
+}
+
+.sections{
+    float: left;
+    margin-right: 6rem;
+}
+
+.company-name{
+    position: absolute;
+    top: 19rem;
+    left: 16rem;
+}
+
+.company-logo{
+    position: absolute;
+    position: absolute;
+    top: 2rem;
+    left: 91rem;
+    text-align: right;
+    color: #FFFFFF;
+    font: normal normal bold 72px/52px DIN Condensed;
+}
+
+.this-is{
+    font: normal normal bold 45px/52px DIN Condensed;
+}
+
+.socials{
+    position: absolute;
+    top: 20rem;
+    left: 86rem;
+}
+
+.social-logo{
+    margin-left:4rem;
+}
+
+.section{
+    color:#FFDAC9;
+    text-align: left;
+    font: normal normal bold 20px/42px DIN Condensed;
+    letter-spacing: 0.14px;
+    color: #FFDAC9;
+    opacity: 1;
+    margin-bottom: 0%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 1rem;
+    margin-top: 0;
+}
+
+li{
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,190 @@
+.meetcommunity{
+    position: absolute;
+    top:1000px;
+    margin-top:0%;
+    width: 100%;
+    height: 1400px;
+    z-index: -1;
+}
+
+.community_title{
+    font: normal normal bold 62px/52px DIN Condensed;
+    margin-bottom: 0rem;
+    width: fit-content;
+}
+
+.community_info{
+    margin-left: 30%;
+    text-align: left;
+    color: #333333;
+    opacity: 1;
+    width: fit-content;
+    position: absolute;
+    z-index: 0;
+}
+
+.know_more{
+    text-decoration: none;
+    color: #333333;
+    font: normal normal bold 18px/52px DIN Condensed;
+    letter-spacing: 0.18px;
+    color: #333333;
+    opacity: 1;
+    background-color: #FFDAC9;
+    width: fit-content;
+}
+
+.info_p{
+    font: normal normal bold 22px/25px DIN Condensed;
+    letter-spacing: 0.44px;
+    color: #333333;
+    opacity: 1;
+    width: fit-content;
+}
+
+.firstcomment{
+    margin-left: 50%;
+    position: relative;
+    z-index: 1;
+    top: 9rem;
+    height: 26rem;
+}
+
+.food{
+    width: 22rem;
+    height: 22rem;
+    position: absolute;
+    z-index: 1;
+}
+
+.insta_logo{
+    z-index: 2;
+    position: relative;
+    left: 17rem;
+    width: 6rem;
+}
+
+.comment_section{
+    position: absolute;
+    left: 25rem;
+    top: 3rem;
+    margin-left: 3rem;
+    width: 21rem;
+    text-align: left;
+    z-index: 2;
+    background-color: #FFFFFF;
+}
+
+.name{
+    font: normal normal bold 22px/52px DIN Condensed;
+    letter-spacing: 0.44px;
+    color: #333333;
+    opacity: 1;
+}
+
+.comment{
+    font: normal normal normal 20px/20px Gill Sans;
+    letter-spacing: 0.15px;
+    color: #333333;
+    opacity: 1;
+}
+
+.feedback{
+    display: flex;
+}
+.comment_icon{
+    margin-left: 13rem;
+}
+
+.comments{
+    margin-right:2rem;
+    
+}
+
+.background{
+    position: relative;
+    z-index: -1;
+}
+
+.crosses{
+    position: relative;
+    width: 12rem;
+    height: 7rem;
+    left: 18rem;
+    top: 6rem;
+}
+
+.stripes{
+    position: relative;
+    top: 6rem;
+    left: 36rem;
+}
+
+.waffle{
+    width: fit-content;
+    position: relative;
+    left: 27rem;
+}
+
+.secondcomment{
+    margin-left: 5%;
+    position: relative;
+    z-index: 1;
+    top: 7rem;
+    height: 26rem;
+}
+
+.comment_section2{
+    position: absolute;
+    top: 3rem;
+    width: 21rem;
+    text-align: left;
+    z-index: 2;
+    background-color: #FFFFFF;
+}
+
+.dots{
+    position: relative;
+    width: 16rem;
+    height: 13rem;
+    left: 1rem;
+    top: 4rem;
+}
+
+.tirdcomment{
+    margin-left: 50%;
+    position: relative;
+    z-index: 1;
+    top: 3rem;
+    height: 26rem;
+}
+
+.comment_section3{
+    position: absolute;
+    top: 3rem;
+    margin-left: 3rem;
+    width: 21rem;
+    text-align: left;
+    z-index: 2;
+    background-color: #FFFFFF;
+}
+
+.rice{
+    position: relative;
+    left: 29rem;
+}
+
+.last_info{
+    position: absolute;
+    top: 64rem;
+    width: 21rem;
+    text-align: left;
+    z-index: 2;
+    background-color: #FFFFFF;
+    margin-left: 6rem;
+    text-align: left;
+    font: normal normal normal 20px/20px Gill Sans;
+    letter-spacing: 0.15px;
+    color: #333333;
+    opacity: 1;
+}

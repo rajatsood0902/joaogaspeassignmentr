@@ -1,0 +1,264 @@
+.popular_recipies {
+  height: 100%;
+  top: 4050px;
+  width: 100%;
+  white-space: nowrap;
+  position: relative;
+}
+
+.title-recipies {
+  width: fit-content;
+  margin-left: 12%;
+  float: left;
+}
+
+.title_recipie {
+  text-align: left;
+  font: normal normal bold 65px/52px DIN Condensed;
+  line-height: 85%;
+  letter-spacing: 0px;
+  color: #333333;
+  margin-bottom: 0%;
+}
+
+.see-all {
+  text-align: left;
+  font: normal normal bold 20px/52px DIN Condensed;
+  letter-spacing: 0.18px;
+  color: #333333;
+  opacity: 1;
+  margin-top: 0%;
+  margin-left: 15%;
+  background-color: #ffdac9;
+}
+
+.share {
+  width: fit-content;
+  margin-left: 60%;
+  position: absolute;
+  top: 4rem;
+}
+
+.share-recipie {
+  text-align: right;
+  font: normal normal bold 35px/52px DIN Condensed;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+  margin-bottom: 0%;
+}
+
+.see-now {
+  text-align: left;
+  font: normal normal bold 20px/52px DIN Condensed;
+  letter-spacing: 0.18px;
+  color: #333333;
+  opacity: 1;
+  margin-top: 0%;
+  margin-left: 15%;
+  background-color: #ffdac9;
+  float: right;
+}
+
+.recipie {
+  position: absolute;
+  display: inline-block;
+  width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  top: 18rem;
+  left: 0;
+  height: 700px;
+  overflow: hidden;
+}
+
+.recipie_picture {
+  width: 25rem;
+  height: 20rem;
+  object-fit: cover;
+}
+
+.recipies {
+  width: fit-content;
+  margin-left: 12%;
+  display: inline-block;
+}
+
+.servings {
+  position: absolute;
+  top: 1rem;
+  text-align: center;
+}
+
+.description {
+  text-align: left;
+  font: normal normal normal 15px/20px Gill Sans;
+  letter-spacing: 0.15px;
+  color: #767676;
+  opacity: 1;
+}
+
+.user {
+  float: right;
+  text-align: right;
+  font: normal normal bold 14px/42px DIN Condensed;
+  letter-spacing: 0.14px;
+  color: #333333;
+  opacity: 1;
+}
+
+.number {
+  font: normal normal bold 60px/45px DIN Condensed;
+}
+
+.number-servings {
+  position: absolute;
+  top: 0rem;
+  margin-left: 0.5rem;
+  text-align: center;
+  font: normal normal bold 35px/45px DIN Condensed;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+  opacity: 1;
+  z-index: 1;
+  margin-top: 0%;
+}
+
+.servings-background {
+  position: absolute;
+  top: 0rem;
+  text-align: center;
+  margin-left: 0rem;
+  width: 8rem;
+  height: 7rem;
+  opacity: 1;
+  background-color: rgb(51, 51, 51, 0.2);
+  filter: blur(100px);
+  backdrop-filter: blur(50px);
+}
+
+.dificulty {
+  text-align: left;
+  font: normal normal bold 14px/42px DIN Condensed;
+  letter-spacing: 0.14px;
+  color: #767676;
+  opacity: 0.56;
+}
+
+.plate-name {
+  text-align: left;
+  font: normal normal bold 22px/25px DIN Condensed;
+  letter-spacing: 0.44px;
+  color: #333333;
+  opacity: 1;
+}
+
+.description {
+  text-align: left;
+  font: normal normal normal 15px/20px Gill Sans;
+  letter-spacing: 0.15px;
+  color: #767676;
+  opacity: 1;
+}
+
+.toast{
+  height: 24rem;
+}
+
+.first-go-btn{
+  position: absolute;
+  top: 20.5rem;
+  left: 35.5rem;
+}
+
+.second-go-btn{
+  position: absolute;
+  top: 11.5rem;
+  left: 10.2rem;
+}
+.third-go-btn{
+  position: absolute;
+  top: 13.3rem;
+  left: 12.2rem;
+}
+.fourth-go-btn{
+  position: absolute;
+  top: 13.5rem;
+  left: 13.5rem;
+}
+.fith-go-btn{
+  position: absolute;
+  top: 13.5rem;
+  left: 13.5rem;
+}
+
+.pinaple{
+  width: 14rem;
+  height: 15rem;
+}
+
+.second{
+  position: absolute;
+  left: 29rem;
+}
+
+.third{
+  position: absolute;
+  left: 47rem;
+  top: 4.5rem;
+}
+
+.mushroom{
+  width: 16rem;
+  height: 17rem;
+}
+
+.fourth{
+  position: absolute;
+  left: 67rem;
+}
+
+.cuscus{
+  width: 17rem;
+  height: 17rem;
+}
+
+.fith{
+  position: absolute;
+  left: 89rem;
+}
+
+.sixth{
+  position: absolute;
+  top:5rem;
+  left: 110rem;
+}
+
+.chef-stamp-toast{
+  position: absolute;
+  left: 32rem;
+}
+
+.chef-stamp-mushroom{
+  position: absolute;
+  left: 73rem;
+  top: 2rem;
+  z-index: 1;
+}
+
+.nav-arrows{
+  position: absolute;
+  left: 100rem;
+  top: 56rem;
+}
+
+.scroll-left{
+  margin-right:2rem;
+  transform: rotate(180deg);
+}
+
+.nav-arrow-btn{
+  border:none;
+  background-color: transparent;
+  cursor: pointer;
+}
